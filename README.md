@@ -20,9 +20,9 @@ We are **Rine0pp**, a passionate team dedicated to pioneering blockchain validat
 
 On our GitHub, you'll find a collection of guides and resources to help you navigate the world of blockchain validation and web3 technologies.
 Here are some of them:
-* [Nillion](https://github.com/Rine0pp/guides/tree/main/nillion-guide)
-* [0g Storage](https://github.com/Rine0pp/guides/tree/main/0g-storage-guide)
-* [Planq](https://github.com/Rine0pp/guides/tree/main/planq-guide)
+* [Nillion](https://github.com/Rine0pp/guides/tree/main/nillion-guide) 📘
+* [0g Storage](https://github.com/Rine0pp/guides/tree/main/0g-storage-guide) 📦
+* [Planq](https://github.com/Rine0pp/guides/tree/main/planq-guide) 📝
 
 ## Join Us on Our Journey! 🌐
 
