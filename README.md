@@ -23,6 +23,7 @@ Here are some of them:
 * [Nillion](https://github.com/Rine0pp/guides/tree/main/nillion-guide/README.MD) 📘
 * [0g Storage](https://github.com/Rine0pp/guides/tree/main/0g-storage-guide/README.MD) 📦
 * [Planq](https://github.com/Rine0pp/guides/tree/main/planq-guide/README.MD) 📝
+* [Laconic](https://github.com/Rine0pp/laconic) 👨🏼‍🎓
 
 ## Join Us on Our Journey! 🌐
 
