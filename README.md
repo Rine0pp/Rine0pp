@@ -24,6 +24,7 @@ Here are some of them:
 * [0g Storage](https://github.com/Rine0pp/guides/tree/main/0g-storage-guide/README.MD) 📦
 * [Planq](https://github.com/Rine0pp/guides/tree/main/planq-guide/README.MD) 📝
 * [Laconic](https://github.com/Rine0pp/laconic) 👨🏼‍🎓
+* [Stroom](https://github.com/Rine0pp/Stroom-Sparrow) 🚴🏿‍♀️
 
 ## Join Us on Our Journey! 🌐
 
